@@ -6,13 +6,13 @@ Le Juste Prix (Guess My Number)
 
 3) Vérifier si le nombre est le juste prix et lui afficher un message adéquat (trop petit, trop grand...) (fait)
 
-// Bonus (pas fait)
+// Bonus
 
-// vérifier l'input de l'utilisateur
+// vérifier l'input de l'utilisateur (x)
 
-// compter le nombre d'essais
+// compter le nombre d'essais (fait)
 
-// Choisir la difficulté
+// Choisir la difficulté (x)
 
 // Rendu
 
